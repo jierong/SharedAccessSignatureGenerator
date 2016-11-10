@@ -1,0 +1,4 @@
+C:\Users\xingzhou\Desktop\Azure Sample Code\SharedAccessSignatureGenerator\SharedAccessSignatureGenerator\bin\Debug\SharedAccessSignatureGenerator.dll
+C:\Users\xingzhou\Desktop\Azure Sample Code\SharedAccessSignatureGenerator\SharedAccessSignatureGenerator\bin\Debug\SharedAccessSignatureGenerator.pdb
+C:\Users\xingzhou\Desktop\Azure Sample Code\SharedAccessSignatureGenerator\SharedAccessSignatureGenerator\obj\Debug\SharedAccessSignatureGenerator.dll
+C:\Users\xingzhou\Desktop\Azure Sample Code\SharedAccessSignatureGenerator\SharedAccessSignatureGenerator\obj\Debug\SharedAccessSignatureGenerator.pdb

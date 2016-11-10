@@ -1,0 +1,5 @@
+C:\Users\xingzhou\Desktop\Azure Sample Code\SharedAccessSignatureGenerator\SharedAccessSignatureGenerator\bin\Release\SharedAccessSignatureGenerator.dll
+C:\Users\xingzhou\Desktop\Azure Sample Code\SharedAccessSignatureGenerator\SharedAccessSignatureGenerator\bin\Release\SharedAccessSignatureGenerator.pdb
+C:\Users\xingzhou\Desktop\Azure Sample Code\SharedAccessSignatureGenerator\SharedAccessSignatureGenerator\obj\Release\SharedAccessSignatureGenerator.dll
+C:\Users\xingzhou\Desktop\Azure Sample Code\SharedAccessSignatureGenerator\SharedAccessSignatureGenerator\obj\Release\SharedAccessSignatureGenerator.pdb
+C:\Users\xingzhou\Desktop\Azure Sample Code\SharedAccessSignatureGenerator\SharedAccessSignatureGenerator\obj\Release\SharedAccessSignatureGenerator.csprojResolveAssemblyReference.cache
