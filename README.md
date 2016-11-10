@@ -1,12 +1,12 @@
 # SharedAccessSignatureGenerator
 This tool can be used to generate SAS from Azure Service Bus and IoT Hub. The code is mainly taken from Microsoft.Azure.Devices.dll.
 
-> **Usage**:
+## **Usage**:
 
 ```csharp
 using SharedAccessSignatureGenerator;
 ```
-> Service Bus:
+### Service Bus:
 
 ```csharp
 // servicebus
@@ -24,7 +24,7 @@ var sasBuilder = new SharedAccessSignatureBuilder()
 };
 string sas = sasBuilder.ToSignature();
 ```
-> IoT Hub:
+### IoT Hub:
 
 ```csharp
 //iot hub
@@ -49,7 +49,7 @@ var sasBuilder2 = new SharedAccessSignatureBuilder()
 };
 string sas2 = sasBuilder1.ToSignature();
 ```
-### References:
+## References:
 
 1. https://azure.microsoft.com/en-us/documentation/articles/iot-hub-devguide-security/
 
